@@ -1,1 +1,80 @@
-body {}
+body {
+      background-image: url("24726200_1722437481120048_493186967_o.jpg");
+       background-size: 1300px 900px;
+       object-fit: scale-down;
+      background-repeat: no-repeat;
+       background-position: center;
+       background-attachment: fixed;
+}
+
+.container2 {
+  background-color: lightblue;
+  color: darkblue;
+}
+
+.container1 {
+  background-color: darkblue;
+  color: white;
+}
+
+.container {
+  background-color: lightblue;
+  opacity: 0.75;
+
+}
+
+
+.navbar-toggle {
+    background-color: darkblue;
+}
+
+.icon-bar {
+  color: darkblue;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkblue;
+   text-align: center;
+   font-weight:bold;
+ }
+
+h3 {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkblue;
+   text-align: center;
+   font-weight:bold;
+}
+
+ol {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkblue;
+   text-align: left;
+  font-weight:bold;
+}
+
+ p {
+     text-align: center;
+     color: darkblue;
+     font-family: verdana;
+     font-size: 20px;
+     font-weight:bold
+ }
+
+ h4 {
+   text-align: center;
+   color: green;
+   font-family: verdana;
+   font-size: 20px;
+ }
